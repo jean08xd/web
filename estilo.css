@@ -1,0 +1,30 @@
+body{
+    background-color: lightsalmon;
+ }
+ body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+ }
+ 
+header {
+    background-color: cornflowerblue;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+ }
+nav {
+    background-color: coral;
+    text-align: center;
+    padding: 10px 0;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 0 15px;
+}
+
+h3{
+    color: darkred;
+}
